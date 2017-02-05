@@ -1,7 +1,7 @@
 ## Louisa Spicer
 
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
-***
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |  
+
 Curiosity and ambition lead me out of a job as a Digital Producer and into an intensive 12 weeks at the Makers Academy bootcamp, in order to pursue a career in Software Development which will fulfil my eagerness to continually learn and create.
 
 The intersection of technology and creativity can be seen as a recurring theme in all of my work and education experiences from a young age. For me, Software Development lies perfectly at this intersection, as it is a craft where creativity can thrive and innovative products are built - and this is what really excites me.
@@ -55,7 +55,7 @@ Exploring how the main characters represent aspects of Freud's theory of the Id,
 
 #### Homewood School Sixth Form Center (2009 - 2011)
 
-A Levels:
+**A Levels:**
 - Graphic Communications (A*),
 - Creative and Media Level 3 Advanced Diploma (Overall B)
   * Included Personal Learning and Thinking Skills, and Principle Learning Units e.g. Capture, Show, Investigation & Commission (A-B)
