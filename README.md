@@ -2,11 +2,9 @@
 
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |  
 
-Curiosity and ambition lead me out of a job as a Digital Producer and into an intensive 12 weeks at the Makers Academy bootcamp, in order to pursue a career in Software Development which will fulfil my eagerness to continually learn and create.
+My love for the intersection between technology and creativity is apparent throughout all of my work and education experiences (both self-taught and at school) from a young age. For me, Software Development lies perfectly at this intersection, as it is a craft where creativity can thrive and innovative products are built. I'm really excited about furthering my knowledge and gaining a deeper understanding of how technology is working behind the scenes, so I am currently seeking a Junior Developer role where I can continue to learn and create.
 
-The intersection of technology and creativity can be seen as a recurring theme in all of my work and education experiences from a young age. For me, Software Development lies perfectly at this intersection, as it is a craft where creativity can thrive and innovative products are built - and this is what really excites me.
-
-Having no prior coding experience before studying at Makers Academy, I have quickly progressed as a Full Stack Junior Developer, shaped by best practices, XP, Test Driven Development and Pair Programming. I hope to find a Junior Developer role in a supportive environment that also recognises the importance and value of following similar practices.
+I have recently graduated from Makers Academy, an intensive 12 week coding bootcamp, where I have learnt to code through best practices such as TDD, pair programming and religiously following Agile principles. Designing well-crafted code is something that has become a focus of my development and it would be great to find a place of work that values software craftmanship as much as I do.
 
 ## <a name="skills">Skills</a>
 
@@ -24,7 +22,7 @@ Effective use of these skills lead me to be promoted from Assistant Producer in 
 
 Being meticulous is one of the main reasons why I was able to progress and develop my job role throughout my time at Premier Comms. Soon after joining the digital team, this skill was recognised and I was entrusted with the responsibility to audit and create metadata files before they were used for platform deliveries.
 
-The producers continually used me as a primary resource to check and/or create documents for clients, as I was able to use my keen eye for detail to quickly spot errors. This skill has come through in many different subjects, from placing importance on pleasant composition in the little details in Photography, Film and Graphic Design, to thoroughly scanning lines of data and code.
+This skill has come through in many different subjects, from placing importance on pleasant composition in the little details in Photography, Film and Graphic Design, to thoroughly scanning lines of data and code.
 
 ### <a name="projects">Projects & Code</a>
 Project | Summary | Technologies
@@ -33,17 +31,18 @@ Project | Summary | Technologies
 [Twitter Forest](https://github.com/louisaspicer/twitter_forest)| A virtual forest that starts to grow depending on how many tweets have been written with a particular word in them.| Javascript, Jasmine, CSS, Twitter API
 [Instagram Clone](https://github.com/louisaspicer/instagram-challenge)| Makers Academy weekend challenge. Created a simple Instagram clone in Rails.| Ruby, Rails, Bootstrap, OmniAuth, Heroku
 
-You can view how I've progressed and all of my projects thus far on my Github: https://github.com/louisaspicer
+You can view all of my projects and my progress so far on my Github: https://github.com/louisaspicer
 
 ##  <a name="education">Education</a>
 
 #### Makers Academy (November '16 to February '17)
 
+- Software Craftsmanship
 - Full stack web development
 - Independent learner and problem-solver
 - Focus on Agile methodologies, pair programming, XP values, OOP, TDD & BDD
-- Software Craftsmanship
 - Experience with MVC framework patterns
+- Trained to be tech-agnostic
 
 #### University of Surrey (2011 to 2015)
 
@@ -51,7 +50,7 @@ You can view how I've progressed and all of my projects thus far on my Github: h
 First Class Honours Degree  
 
 - Dissertation on *Freudian Theory in Disney’s Frozen (2013): Interpreting the Mental Processes of the Human Psyche*  
-Exploring how the main characters represent aspects of Freud's theory of the Id, Ego and Superego, as well as the the life and death drives. I sought to re-establish Freud’s workings of the psyche through a different context to which he originally applied them. Here I merged psychoanalytic film theory with animation theory, a combination that has been widely neglected.
+I sought to re-establish Freud’s workings of the psyche through a different context to which he originally applied them. Here I merged psychoanalytic film theory with animation theory, a combination that has been widely neglected.
 
 #### Homewood School Sixth Form Center (2009 - 2011)
 
