@@ -16,7 +16,7 @@ My experience at both Premier Comms and Makers Academy has proven that I am capa
 
 As a Digital Producer, I managed the full lifecycle of various digital projects at one time. This required having effective time management and being highly organised, both physically and mentally.
 
-Effective use of these skills lead me to be promoted from Assistant Producer in a few months after joining, as I could be relied upon to produce a greater amount of accurate work in a shorter period of time.
+As a result of these skills, I was promoted from Assistant Producer just a few months after joining, as I could be relied upon to produce a greater amount of accurate work in a short period of time.
 
 #### Attention to Detail
 
@@ -52,7 +52,7 @@ First Class Honours Degree
 - Dissertation on *Freudian Theory in Disney’s Frozen (2013): Interpreting the Mental Processes of the Human Psyche*  
 I sought to re-establish Freud’s workings of the psyche through a different context to which he originally applied them. Here I merged psychoanalytic film theory with animation theory, a combination that has been widely neglected.
 
-#### Homewood School Sixth Form Center (2009 - 2011)
+#### Homewood School Sixth Form Centre (2009 - 2011)
 
 **A Levels:**
 - Graphic Communications (A*),
@@ -74,7 +74,7 @@ Raised £4000 to embark on a four-week expedition consisting of trekking to the 
 
 **Assistant Digital Producer** (October 2014 - January 2016)
 
-  I rejoined Premier Comms after my Professional Training Year, working part-time during my final year at University, and after graduating I joined the team full-time. As well as assisting the producers, I managed and audited over 600 film and TV titles on the Premier Portal for various clients, and continuously user tested the website, spotting any technical and grammatical errors to report back to the web development team.
+  Having completed a Professional Training Year at Premier, and then working there part-time during my final year at University, I joined full-time after graduating. As well as assisting the producers, I managed and audited over 600 film and TV titles on the Premier Portal for various clients, and continuously user tested the website, spotting any technical and grammatical errors to report back to the web development team.
 
 ##  <a name="interests">Interests</a>
 - Tech Meetups - for expanding knowledge/awareness
@@ -82,4 +82,4 @@ Raised £4000 to embark on a four-week expedition consisting of trekking to the 
 - Film & Theatre - for escapism  
 - Psychology - for the intrigue  
 - Travel - for the intrigue  
-- Philippines - for the wonder that it is
+- The Philippines - for the wonder that it is
