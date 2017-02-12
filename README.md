@@ -1,6 +1,6 @@
 ## Louisa Spicer
 
-[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |  
+[Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) 
 
 My love for the intersection between technology and creativity is apparent throughout all of my work and education experiences (both self-taught and at school) from a young age. For me, Software Development lies perfectly at this intersection, as it is a craft where creativity can thrive and innovative products are built. I'm really excited about furthering my knowledge and gaining a deeper understanding of how technology is working behind the scenes, so I am currently seeking a Junior Developer role where I can continue to learn and create.
 
