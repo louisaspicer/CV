@@ -4,7 +4,7 @@
 
 My love for the intersection between technology and creativity is apparent throughout all of my work and education experiences (both self-taught and at school) from a young age. For me, Software Development lies perfectly at this intersection, as it is a craft where creativity can thrive and innovative products are built. I'm really excited about furthering my knowledge and gaining a deeper understanding of how technology is working behind the scenes, so I am currently seeking a Junior Developer role where I can continue to learn and create.
 
-I have recently graduated from Makers Academy, an intensive 12 week coding bootcamp, where I have learnt to code through best practices such as TDD, pair programming and religiously following Agile principles. Designing well-crafted code is something that has become a focus of my development and it would be great to find a place of work that values software craftsmanship as much as I do.
+I have recently graduated from Makers Academy, an intensive 12-week coding bootcamp, where I have learnt to code through best practices such as TDD, pair programming and religiously following Agile principles. Designing well-crafted code is something that has become a focus of my development and it would be great to find a place of work that values software craftsmanship as much as I do.
 
 ## <a name="skills">Skills</a>
 
