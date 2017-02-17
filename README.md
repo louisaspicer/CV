@@ -8,6 +8,9 @@ I have recently graduated from Makers Academy, an intensive 12-week coding bootc
 
 ## <a name="skills">Skills</a>
 
+#### Creative
+I have a highly creative background and have always tried to think outside of the box whilst tackling any challenge. This can be seen in many of the creative and media projects I’ve immersed myself in, such as designing environmental posters, creating experimental films, handcrafting a 3D poster from old books, creating an art installation piece about emotions and even exploring film theory from a new perspective.
+
 #### Quick Learner
 
 My experience at both Premier Comms and Makers Academy has proven that I am capable of learning and adapting quickly to a range of tasks. To ensure I was making the most of my time at Premier, I asked to help out in other departments, such as Digital Encoding and QC. Efficiently learning these new skills in a short period of time meant that I could help out in other departments when required.
