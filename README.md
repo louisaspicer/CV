@@ -27,7 +27,7 @@ This skill has come through in many different subjects, from placing importance 
 ### <a name="projects">Projects & Code</a>
 Project | Summary | Technologies
 --- | --- | --- |
-[Guide Me](https://github.com/aabolade/GuideMe) | Final project at MA. iOS app to aid users with varying degrees of visual impairment to navigate an underground station. To achieve this goal our app scans for bluetooth beacons and passes directions to the user if it detects a beacon with an ID it knows. |Swift, Xcode, TFL API
+[Guide Me](https://github.com/aabolade/GuideMe) | Final project at MA. iOS app to aid users with varying degrees of visual impairment to navigate an underground station. To achieve this goal our app scans for bluetooth beacons and passes directions to the user if it detects a beacon with an ID it knows. Demo Video: https://www.youtube.com/watch?v=wIF0KgibgrQ |Swift, Xcode, TFL API
 [Bowling Calculator](https://github.com/louisaspicer/bowling-challenge)|A Makers Academy weekend challenge. An app to calculate the scores of a bowling game.| Javascript, Jasmine for testing
 [Instagram Clone](https://github.com/louisaspicer/instagram-challenge)|A Makers Academy weekend challenge. Created a simple Instagram clone in Rails.| Ruby, Rails, Bootstrap, OmniAuth, Heroku
 
