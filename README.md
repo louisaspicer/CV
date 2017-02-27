@@ -49,7 +49,7 @@ You can view all of my projects and my progress so far on my Github: https://git
 
 #### University of Surrey (2011 to 2015)
 
-**Film Studies (BA), with Professional Training Year**  
+**Film Studies (BA), with Professional Training Year at Premier Comms**  
 First Class Honours Degree  
 
 - Dissertation on *Freudian Theory in Disney’s Frozen (2013): Interpreting the Mental Processes of the Human Psyche*  
@@ -75,7 +75,7 @@ Raised £4000 to embark on a four-week expedition consisting of trekking to the 
 
   Client lead for multiple projects, overseeing and co-ordinating asset management, encoding, QC and delivery of digital assets. Communicated with both clients and the team of digital encoders, operators and editors to achieve the smoothest possible process for delivery of content.
 
-**Assistant Digital Producer** (October 2014 - January 2016)
+**Assistant Digital Producer** (Part-time: Oct 2014 - June 2015, Full-time: July 2015 - January 2016)
 
   Having completed a Professional Training Year at Premier, and then working there part-time during my final year at University, I joined full-time after graduating. As well as assisting the producers, I managed and audited over 600 film and TV titles on the Premier Portal for various clients, and continuously user tested the website, spotting any technical and grammatical errors to report back to the web development team.
 
